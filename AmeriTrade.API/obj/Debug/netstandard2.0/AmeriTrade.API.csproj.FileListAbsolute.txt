@@ -1,0 +1,18 @@
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.deps.json
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.dll
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.pdb
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.csprojAssemblyReference.cache
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.AssemblyInfo.cs
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.dll
+C:\Users\ander\Documents\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.pdb
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.deps.json
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.dll
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.pdb
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.csprojAssemblyReference.cache
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.AssemblyInfoInputs.cache
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.AssemblyInfo.cs
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.dll
+C:\Users\Anderson Domingos\Documents\Projetos\andersonfdom\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.pdb
